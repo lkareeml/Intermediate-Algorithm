@@ -12,7 +12,7 @@ NOTE: Preserve the case of the original word when you are replacing it. For exam
 */
 
 
-function myReplace(str, before, after) {
+function my_Replace(str, before, after) {
   var strArr =str.split(" ");
   var befArr =before.split("");
   var afterArr =after.split("");
